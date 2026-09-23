@@ -13,8 +13,6 @@
 - 🎮 **Игры** — профили CS2, GTA 5 RP, приоритеты
 - 💎 **Премиум** — 45+ функций, тонкие твики, авто-диагностика
 
-## 📥 Скачать
-
 **[⬇️ Скачать HuragamiUtility_Setup.exe](https://github.com/Huragami1/HuragamiUtility/releases/latest)**
 
 ## 💎 Премиум
