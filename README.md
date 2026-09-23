@@ -1,2 +1,36 @@
-# HuragamiUtility
-Премиум оптимизатор Windows
+
+# ⚡ Huragami Utility
+
+**Премиум-инструмент для оптимизации Windows, сети и игр.**
+
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-success)
+
+## 🎯 Что умеет
+
+- 🖥️ **Оптимизация Windows** — очистка, службы, реестр, питание
+- 🌐 **Сеть** — DNS, TCP-твики, буферы, сброс
+- 🎮 **Игры** — профили CS2, GTA 5 RP, приоритеты
+- 💎 **Премиум** — 45+ функций, тонкие твики, авто-диагностика
+
+## 📥 Скачать
+
+**[⬇️ Скачать HuragamiUtility_Setup.exe](https://github.com/Huragami1/HuragamiUtility/releases/latest)**
+
+## 💎 Премиум
+
+Активируется промокодом. Купить: **Discord → kobyakovmm**
+
+## 🛠 Установка
+
+1. Скачай `HuragamiUtility_Setup.exe`
+2. Запусти → Далее → Установить
+3. Ярлык появится на рабочем столе
+
+## ⚠️ Антивирус
+
+Если Windows ругается — это ложное срабатывание PyInstaller. Нажми «Подробнее → Выполнить в любом случае».
+
+## 📞 Поддержка
+
+Discord: **kobyakovmm**
